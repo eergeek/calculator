@@ -1,0 +1,22 @@
+@media all and (max-width: 670px) {
+    body {
+       margin: 5px;
+    }
+    .calc {
+        width: 400px;
+    }
+
+    .calc-screen {
+        width: 100%;
+        text-align: right;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+    }
+
+    .btn {
+        background-color: bisque;
+        cursor: pointer;
+        border: none;
+    }
+
+}
