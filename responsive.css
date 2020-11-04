@@ -1,6 +1,6 @@
 @media all and (max-width: 670px) {
     body {
-       margin: 5px;
+       margin: 0;
     }
     .calc {
         width: 400px;
